@@ -1,8 +1,8 @@
 Space Invaders is a classic game commonly found at any retro-based arcade. We'll need to learn a few concepts regarding image rendering, physics, and object interaction. Code with JavaScript and HTML Canvas.
   
   Space Invaders Game Lineup:
- ☐ Project setup
- ☐ Create a player
+ ✔ Project setup @done (23-06-25 21:14)
+ ✔ Create a player @done (23-06-25 21:34)
  ☐ Move the player
  ☐ Create projectiles
  ☐ Create an invader
