@@ -3,7 +3,7 @@ Space Invaders is a classic game commonly found at any retro-based arcade. We'll
   Space Invaders Game Lineup:
  ✔ Project setup @done (23-06-25 21:14)
  ✔ Create a player @done (23-06-25 21:34)
- ☐ Move the player
+ ✔ Move the player @done (23-06-27 08:57)
  ☐ Create projectiles
  ☐ Create an invader
  ☐ Create and move grids of invaders
